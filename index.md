@@ -1,10 +1,8 @@
 ```markdown
-
-# Biography
-
+Biography
 
 
-## Publications
+Publications
 
 [Link](url) and ![Image](src)
 ```
